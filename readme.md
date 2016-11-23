@@ -47,7 +47,8 @@ English – fluent. French – good user.
 - Manage security assessment and consulting projects for clients in energy, technology, telecom, and banking sectors.
 - Maintain required expertise; provide guidance and coaching to team members.
 
-### Deputy Head of Information Security Consulting Services Department (October 2013 - June 2014), Head of Security Assessment Team (February 2011 - October 2013)
+### Deputy Head of Information Security Consulting Services Department (October 2013 - June 2014)
+### Head of Security Assessment Team (February 2011 - October 2013)
 #### BMS Consulting (Information Security and IT Integration)
 - Develop and promote information security services, conduct market research and trends analysis.
 - Develop and coach department staff in the area of information security consulting.
