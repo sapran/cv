@@ -1,6 +1,6 @@
 # Volodymyr Styran
 ## Information Security Expert
-<i class="icon-email">vlad@styran.com <i class="icon-phone"></i>+380 63 178 4683 <i class="icon-address">Kyiv, Ukraine
+:email: vlad@styran.com :phone: +380 63 178 4683 :house: Kyiv, Ukraine
 
 ## Summary
 Vlad Styran is an internationally known cyber security enthusiast, security leader, and ethical hacker, with main areas of expertise focused on Penetration Testing, Social Engineering, and Security Awareness. In order to help companies better protect their critical data and staff from contemporary cyber threats, he has created a unique methodology of identification, assessment, and dealing with "human factor" security issues.
