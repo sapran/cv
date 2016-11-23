@@ -16,11 +16,11 @@ Since 2011, Vlad co-organizes UISGCON – the largest Ukrainian information secu
 - Certified Ethical Hacker (CEH)
 
 ## Skills and Qualifications
-Outstanding, proven leadership skills; efficient recruitment abilities; talent development and staff coaching.
+Proven leadership skills; efficient recruitment abilities, talent development, and staff coaching.
 
-Network, application, social engineering penetration testing; clean, actionable reporting; business-focused risk management.
+Network, application, and social engineering penetration testing; clean, prioritized, and actionable reporting; business-focused risk management.
 
-Strong presentation and persuasion skills; ability to train, educate, inspire staff, and transform organizational culture.
+Strong presentation and persuasion skills; ability to train, educate, and inspire staff, and transform organizational culture.
 
 Deep knowledge in organizational processes, information security management and audit, operating environments, databases, networks, cloud technology, and software development.
 
