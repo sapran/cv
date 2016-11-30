@@ -7,7 +7,7 @@ Vlad Styran is an internationally known cyber security enthusiast, security lead
 
 At Berezha Security, Vlad is responsible for delivery of high-quality security assessment services and consulting the clients on broad range of cyber security matters, such as application/software security, cyber security awareness, bug bounty programs, security policy and compliance.
 
-Since 2011, Vlad co-organizes UISGCON – the largest Ukrainian information security conference. He is a notable blogger, podcast producer, and frequent conference speaker.
+Since 2011, Vlad co-organizes UISGCON – the largest Ukrainian information security conference. He is a notable blogger, podcast producer, and conference speaker.
 
 - Certified Information Systems Security Professional (CISSP)
 - Certified Information Systems Auditor (CISA)
@@ -35,7 +35,7 @@ English – fluent. French – good user.
 ## Experience
 ### Co-founder, Director of Operations
 #### Berezha Security (Information Security Consulting), November 2014 – present
-Pursuing the dream of building a high-quality security consulting company that lets business, expertise, hacker community, and public help each other survive and thrive in cyberspace.
+Pursuing the dream of building a high-quality security consulting company that lets business, expertise, hacker community, and public interest help each other survive and thrive in cyberspace.
 
 ### Head of Information Security Center of Excellence
 #### LUXOFT (Software Engineering Services), June 2014 – August 2016
