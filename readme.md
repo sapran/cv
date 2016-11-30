@@ -5,7 +5,7 @@
 ## Summary
 Vlad Styran is an internationally known cyber security enthusiast, security leader, and ethical hacker, with main areas of expertise focused on Penetration Testing, Social Engineering, and Security Awareness. To help companies better protect their critical data and staff from modern cyber threats, he has created a unique methodology of identification, assessment, and treatment of "human factor" security issues.
 
-At Berezha Security, Vlad is responsible for delivery of first-rate security assessment services and consulting the clients on a broad range of cyber security matters, such as application/software security, cyber security awareness, bug bounty programs, security policy and compliance.
+At Berezha Security, Vlad is responsible for delivery of first-rate security assessment services and consults the clients on a broad range of cyber security matters, such as application/software security, cyber security awareness, bug bounty programs, security policy and compliance.
 
 Since 2011, Vlad co-organizes UISGCON – the largest Ukrainian information security conference. He is a notable blogger, podcast producer, and conference speaker.
 
