@@ -35,7 +35,7 @@ English – fluent. French – good user.
 ## Experience
 ### Co-founder, Director of Operations
 #### Berezha Security (Information Security Consulting), November 2014 – present
-Pursuing the dream of creating a high-quality security consulting company that lets business, expertise, hacker community, and public interest help each other survive and thrive in the modern world.
+Pursuing the dream of building a high-quality security consulting company that lets business, expertise, hacker community, and public help each other survive and thrive in cyberspace.
 
 ### Head of Information Security Center of Excellence
 #### LUXOFT (Software Engineering Services), June 2014 – August 2016
