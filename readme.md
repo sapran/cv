@@ -39,11 +39,11 @@ Pursuing the dream of building a high-quality security consulting company that l
 
 ### Head of Information Security Center of Excellence
 #### LUXOFT (Software Engineering Services), June 2014 – August 2016
-Raised the Information Security consulting practice from the point of deep resource and demand crisis to the state of high availability, sustainable growth, and company-wide recognition in one of the largest global software engineering service providers.
+Raised the Information Security consulting practice from the point of deep resource and demand crisis to the level of high availability, sustainable growth, and company-wide recognition in one of the largest global software engineering service providers.
 
 ### Deputy Head of Information Security Consulting Services Department, Head of Security Assessment Team
 #### BMS Consulting (Information Security and IT Integration), February 2011 -  June 2014
-Opened, raised, and secured growing profitability of a new line of business by creating, growing and developing the most successful team of penetration testers in the country.
+Opened, raised, and secured viable profitability of a new line of business by creating, growing and developing the most successful team of penetration testers in the country.
 
 ### Head of IT Audit
 #### Astelit (Mobile Telephone Network Operator), Jul 2009 - January 2011.
