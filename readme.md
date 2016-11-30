@@ -43,9 +43,15 @@ English – fluent. French – good user.
 ### Head of Information Security Center of Excellence
 #### LUXOFT (Software Engineering Services), June 2014 – August 2016
 
+- Lead a software security practice in one of the world largest software engineering services companies.
+- Develop and promote software security, penetration testing, and security consulting services within the organization and to external clients.
+- Manage security assessment and consulting projects for clients in energy, technology, telecom, and banking sectors.
+- Maintain required expertise; provide guidance and coaching to team members.
 
-### Deputy Head of Information Security Consulting Services Department (October 2013 - June 2014)
-### Head of Security Assessment Team (February 2011 - October 2013)
+### Deputy Head of Information Security Consulting Services Department
+(October 2013 - June 2014)
+### Head of Security Assessment Team
+(February 2011 - October 2013)
 #### BMS Consulting (Information Security and IT Integration)
 Opened, raised, and secured sustainable profitability of a new line of business by creating, growing and developing the most successful team of penetration testers in the country.
 
