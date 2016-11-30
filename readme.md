@@ -18,9 +18,10 @@ Since 2011, Vlad co-organizes UISGCON – the largest Ukrainian information secu
 ## Skills and Qualifications
 Proven leadership skills; efficient recruitment abilities, talent development, and staff coaching.
 
+Strong presentation and persuasion skills; ability to train, educate, inspire staff, and transform organizational culture.
+
 Network, application, and social engineering penetration testing; clean, prioritized, and actionable reporting; business-focused risk management.
 
-Strong presentation and persuasion skills; ability to train, educate, and inspire staff, and transform organizational culture.
 
 Deep knowledge in organizational processes, information security management and audit, operating environments, databases, networks, cloud technology, and software development.
 
