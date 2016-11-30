@@ -41,11 +41,8 @@ Pursuing the dream of building a high-quality security consulting company that l
 #### LUXOFT (Software Engineering Services), June 2014 – August 2016
 Raised the Information Security consulting practice from the point of deep resource and demand crisis to the state of high availability, sustainable growth, and company-wide recognition in one of the largest global software engineering service providers.
 
-### Deputy Head of Information Security Consulting Services Department
-(October 2013 - June 2014)
-### Head of Security Assessment Team
-(February 2011 - October 2013)
-#### BMS Consulting (Information Security and IT Integration)
+### Deputy Head of Information Security Consulting Services Department, Head of Security Assessment Team
+#### BMS Consulting (Information Security and IT Integration), February 2011 -  June 2014
 Opened, raised, and secured growing profitability of a new line of business by creating, growing and developing the most successful team of penetration testers in the country.
 
 ### Head of IT Audit
