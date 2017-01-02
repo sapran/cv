@@ -1,6 +1,6 @@
 # Volodymyr Styran
 ## Information Security Expert
-:email: sapran@protonmail.com :link: https://styran.com :round_pushpin: Kyiv, Ukraine
+:email: sapran@protonmail.com :link: https://blog.styran.com :round_pushpin: Kyiv, Ukraine
 
 ## Summary
 Vlad Styran is an internationally known cyber security enthusiast, security leader, and ethical hacker, with main areas of expertise focused on Penetration Testing, Social Engineering, and Security Awareness. To help companies better protect their critical data and staff from modern cyber threats, he has created a unique methodology of identification, assessment, and treatment of "human factor" security issues.
