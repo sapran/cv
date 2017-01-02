@@ -1,6 +1,6 @@
 # Volodymyr Styran
 ## Information Security Expert
-:email: vlad@styran.com :phone: +380 63 178 4683 :house: Kyiv, Ukraine
+:email: sapran@protonmail.com :twitter: @saprand :house: Kyiv, Ukraine :ua:
 
 ## Summary
 Vlad Styran is an internationally known cyber security enthusiast, security leader, and ethical hacker, with main areas of expertise focused on Penetration Testing, Social Engineering, and Security Awareness. To help companies better protect their critical data and staff from modern cyber threats, he has created a unique methodology of identification, assessment, and treatment of "human factor" security issues.
@@ -22,10 +22,9 @@ Strong presentation and persuasion skills; ability to train, educate, inspire st
 
 Network, application, and social engineering penetration testing; clean, prioritized, and actionable reporting; business-focused risk management.
 
-
 Deep knowledge in organizational processes, information security management and audit, operating environments, databases, networks, cloud technology, and software development.
 
-Regulatory compliance and security standards: PCI DSS, PTES, OWASP, NIST SP800, ISO27000, COBIT.
+Practical knowledge of regulatory compliance and security standards: PCI DSS, PTES, OWASP, NIST SP800, ISO27000, COBIT.
 
 ## Education
 MS in Applied Mathematics and Mechanics, Chernivtsi National University, Chernivtsi, Ukraine, 2002.
