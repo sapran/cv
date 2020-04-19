@@ -3,11 +3,11 @@
 :email: sapran@protonmail.com :link: https://blog.styran.com :round_pushpin: Kyiv, Ukraine
 
 ## Summary
-Vlad Styran is an internationally known cyber security enthusiast, security leader, and ethical hacker, with main areas of expertise focused on Penetration Testing, Social Engineering, and Security Awareness. To help companies better protect their critical data and staff from modern cyber threats, he has created a unique methodology of identification, assessment, and treatment of "human factor" security issues.
+Vlad Styran is an internationally known cybersecurity enthusiast, security leader, and ethical hacker, with primary areas of expertise, focused on Penetration Testing, Social Engineering, and Security Awareness. To help companies better protect their critical data and staff from modern cyber threats, he has created a unique methodology of identification, assessment, and treatment of "human factor" security issues.
 
-At Berezha Security, Vlad is responsible for delivery of first-rate security assessment services and consults the clients on a broad range of cyber security matters, such as application/software security, cyber security awareness, bug bounty programs, security policy and compliance.
+At Berezha Security, Vlad is responsible for the delivery of first-rate security assessment services and consults the clients on a broad range of cybersecurity matters, such as application/software security, cybersecurity awareness, bug bounty programs, security policy, and compliance.
 
-Since 2011, Vlad co-organizes UISGCON – the largest Ukrainian information security conference. He is a notable blogger, podcast producer, and conference speaker.
+Since 2011, Vlad co-organized UISGCON, the largest Ukrainian information security conference at the time. In 2018, he co-founded NoNameCon, the flagship cybersecurity professional conference in Ukraine. He is a co-leader of the OWASP Kyiv chapter, a notable blogger, podcast producer, and conference speaker.
 
 - Certified Information Systems Security Professional (CISSP)
 - Certified Information Systems Auditor (CISA)
@@ -22,7 +22,7 @@ Strong presentation and persuasion skills; ability to train, educate, inspire st
 
 Network, application, and social engineering penetration testing; clean, prioritized, and actionable reporting; business-focused risk management.
 
-Deep knowledge in organizational processes, information security management and audit, operating environments, databases, networks, cloud technology, and software development.
+In-depth knowledge in organizational processes, information security management and audit, operating environments, databases, networks, cloud technology, and software development.
 
 Practical knowledge of regulatory compliance and security standards: PCI DSS, PTES, OWASP, NIST SP800, ISO27000, COBIT.
 
@@ -33,7 +33,11 @@ MS in Applied Mathematics and Mechanics, Chernivtsi National University, Cherniv
 English – fluent. French – good user.
 
 ## Experience
-### Co-founder, Director of Operations
+### Co-founder, General Coordinator
+#### No Name Events (Professional Event Management), October 2017 – present
+Bringing the Ukrainian professional cybersecurity scene to the next level by co-organizing the 100% community-built practical cybersecurity conference: NoNameCon.
+
+### Co-founder, VP of Business Development
 #### Berezha Security (Information Security Consulting), November 2014 – present
 Pursuing the dream of building a high-quality security consulting company that lets business, expertise, hacker community, and public interest help each other survive and thrive in cyberspace.
 
@@ -43,7 +47,7 @@ Raised the Information Security consulting practice from the point of deep resou
 
 ### Deputy Head of Information Security Consulting Services Department, Head of Security Assessment Team
 #### BMS Consulting (Information Security and IT Integration), February 2011 -  June 2014
-Opened, raised, and secured viable profitability of a new line of business by creating, growing and developing the most successful team of penetration testers in the country.
+Opened, raised, and secured viable profitability of a new line of business by creating, growing, and developing the most successful team of penetration testers in the country.
 
 ### Head of IT Audit
 #### Astelit (Mobile Telephone Network Operator), Jul 2009 - January 2011.
@@ -55,7 +59,7 @@ Helped attract new business opportunities by establishing the Information Securi
 
 ### Information Security Engineer
 #### Jet Infosystems (Information Security and IT Integration), Nov 2005 – Dec 2007.
-Helped numerous clients in Eastern Europe and Asia increase their security posture by integrating Data Loss Prevention, Virtual Private Network, and centrally managed Firewalls solutions. Identified and helped remove multiple critical security issues by providing managed Vulnerability Assessments.
+Helped numerous clients in Eastern Europe and Asia increase their security posture by integrating Data Loss Prevention, Virtual Private Network, and centrally managed Firewalls solutions. Identified and helped remove multiple critical security issues by providing controlled Vulnerability Assessments.
 
 ### System Administrator
 #### Mirasoft Group (Software Engineering Services), May 2005 – Nov 2005.
