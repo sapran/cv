@@ -1,11 +1,11 @@
-# Volodymyr Styran
-## Information Security Expert
+# Curriculum Vitae
+## Volodymyr Styran - Information Security Expert
 :email: sapran@protonmail.com :link: https://blog.styran.com :round_pushpin: Kyiv, Ukraine
 
 ## Summary
-Vlad Styran is an internationally known cybersecurity enthusiast, security leader, and ethical hacker, with primary areas of expertise, focused on Penetration Testing, Social Engineering, and Security Awareness. To help companies better protect their critical data and staff from modern cyber threats, he has created a unique methodology of identification, assessment, and treatment of "human factor" security issues.
+Vlad Styran is an internationally known cybersecurity enthusiast, security leader, and ethical hacker with primary areas of expertise focused on Penetration Testing, Social Engineering, and Security Awareness. To help companies better protect their critical data and staff from modern cyber threats, he has created a unique methodology of identifying, assessing, and treating "human factor" security issues.
 
-At Berezha Security, Vlad is responsible for the delivery of first-rate security assessment services and consults the clients on a broad range of cybersecurity matters, such as application/software security, cybersecurity awareness, bug bounty programs, security policy, and compliance.
+At Berezha Security, Vlad is responsible for the delivery of first-rate security assessment services. He consults the clients on a broad range of cybersecurity matters, such as application/software security, cybersecurity awareness, bug bounty programs, security policy, and compliance.
 
 Since 2011, Vlad co-organized UISGCON, the largest Ukrainian information security conference at the time. In 2018, he co-founded NoNameCon, the flagship cybersecurity professional conference in Ukraine. He is a co-leader of the OWASP Kyiv chapter, a notable blogger, podcast producer, and conference speaker.
 
@@ -22,7 +22,7 @@ Strong presentation and persuasion skills; ability to train, educate, inspire st
 
 Network, application, and social engineering penetration testing; clean, prioritized, and actionable reporting; business-focused risk management.
 
-In-depth knowledge in organizational processes, information security management and audit, operating environments, databases, networks, cloud technology, and software development.
+In-depth knowledge in organizational processes, information security management and Audit, operating environments, databases, networks, cloud technology, and software development.
 
 Practical knowledge of regulatory compliance and security standards: PCI DSS, PTES, OWASP, NIST SP800, ISO27000, COBIT.
 
@@ -43,7 +43,7 @@ Pursuing the dream of building a high-quality security consulting company that l
 
 ### Head of Information Security Center of Excellence
 #### LUXOFT (Software Engineering Services), June 2014 – August 2016
-Raised the Information Security consulting practice from the point of deep resource and demand crisis to the level of high availability, sustainable growth, and company-wide recognition in one of the largest global software engineering service providers.
+He raised the Information Security consulting practice from the point of in-depth resource and demand crisis to the level of high availability, sustainable growth, and company-wide recognition in one of the largest global software engineering service providers.
 
 ### Deputy Head of Information Security Consulting Services Department, Head of Security Assessment Team
 #### BMS Consulting (Information Security and IT Integration), February 2011 -  June 2014
@@ -51,7 +51,7 @@ Opened, raised, and secured viable profitability of a new line of business by cr
 
 ### Head of IT Audit
 #### Astelit (Mobile Telephone Network Operator), Jul 2009 - January 2011.
-Increased the coverage and effectiveness of the corporate internal controls by extending the IT General Controls framework by 40% while keeping staff growth at 25%. Identified and facilitated timely remediation of several business-critical security issues.
+Increased the corporate internal controls' coverage and effectiveness by extending the IT General Controls framework by 40% while keeping staff growth at 25%. Identified and facilitated timely remediation of several business-critical security issues.
 
 ### Information Security Specialist
 #### eCall (Financial Services), Dec 2007 – Jul 2009.
